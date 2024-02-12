@@ -19,7 +19,8 @@ const Footer = () => {
 
   const handleEmailClick = () => {
     // Construct the mailto URI with the email address
-    const mailtoURI = "https://mail.google.com/mail/u/1/#inbox?compose=new";
+    const mailtoURI =
+      "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPkVLTJxxQxDWcFRRLPBmwKCPQBmGxzKbGqTlHpSfBzjcfjwpNLVHGSmSbcjLZqGNWGNNq";
     window.location.href = mailtoURI;
   };
 
