@@ -25,7 +25,7 @@ const Footer = () => {
 
   const handleLinkedInClick = () => {
     // Provide the URL of your LinkedIn profile
-    const linkedinURL = "https://www.linkedin.com/in/noor-banu-3369031b4/";
+    const linkedinURL = "https://www.linkedin.com/in/noor-banu-3369031b4";
     window.location.href = linkedinURL;
   };
 
